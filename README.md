@@ -25,3 +25,5 @@ This repository contains an example for rust, typescript, python, for using sqli
     - Run cargo run to compile/execute the program
    
     - Please feel free to reach out to me with any questions concerns or anything you would like to change, I focused on keeping this project within scope, but I understand it could probably benefeit from some things like being able to delete data when a student completes a class etc. I also noticed that making the teacher entry adds a class and vice veras, this is redundent and could be handled better, but I wanted to get this into you with minmal ammount of delyas, I deeply appreciate your time, thank you.
+
+# There are no filed databases but each program should allow inserts
