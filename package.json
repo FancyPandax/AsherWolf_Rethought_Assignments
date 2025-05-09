@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
